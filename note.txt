@@ -1,0 +1,21 @@
+Batch 12
+Day 1
+git setup
+
+
+
+command
+git config --global user.name "Md. Omar Faruk"
+
+
+
+git Initiate 
+
+command
+
+git init  <-- to Initiate git on folder
+git status
+git add filename
+git add .                <-- to add all files in folder(stage area)
+
+
