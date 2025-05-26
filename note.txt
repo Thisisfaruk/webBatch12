@@ -30,3 +30,21 @@ git log <-- to see all commit history
 git checkout hash
 git checkout a8b024b69e4db <-- to checkout specific commit
 git checkout master  <-- to checkout master branch(latest version)
+
+
+
+
+
+git branch
+git branch 
+git branch master 
+
+
+
+
+git merge 
+git merge branchname
+
+git init
+git add README.md
+git commit -m "first commit"
