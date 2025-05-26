@@ -48,3 +48,10 @@ git merge branchname
 git init
 git add README.md
 git commit -m "first commit"
+
+
+
+
+
+git fetching 
+git fetch <-- to fetch from github to local
