@@ -57,8 +57,8 @@ git fetch
 
 git merge
 
-local to github
 
-
+another way github to local
+git pull
 
 
