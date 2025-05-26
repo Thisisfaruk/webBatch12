@@ -18,4 +18,15 @@ git status
 git add filename
 git add .                <-- to add all files in folder(stage area)
 
+git commit  <-- to submit
+git commit -m "message"  
+git commit -m
 
+
+
+git history
+git log <-- to see all commit history
+
+git checkout hash
+git checkout a8b024b69e4db <-- to checkout specific commit
+git checkout master  <-- to checkout master branch(latest version)
